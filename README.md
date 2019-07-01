@@ -7,4 +7,4 @@ To post a yard sale you will need to fill out a form that will have required inf
 
 If you would like to save the yard sales you are interested in. You will have to login so that you will have your information saved along with the yard sales that you are interested in.
 
-Full Stack App that uses MongoDB, Node, and React.
+Full Stack App that uses MongoDB, Node, Express, and React.
